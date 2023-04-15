@@ -1,1 +1,1 @@
-# work_log
+#This repository records my work logs.
